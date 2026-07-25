@@ -270,4 +270,8 @@ elif st.session_state.screen == "dashboard":
                 with btn_cols[2]:
                     if st.button("❌", key=f"del_{task['id']}", help="Excluir tarefa permanentemente"):
                         delete_task_action(task["id"])
-                st.write("") # Espaçador visual entre blocos de tarefas 
+                st.write("") # Espaçador visual entre blocos de tarefas
+
+#venv\Scripts\activate
+
+#streamlit run frontend/app.py
