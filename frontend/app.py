@@ -275,3 +275,7 @@ elif st.session_state.screen == "dashboard":
 #venv\Scripts\activate
 
 #streamlit run frontend/app.py
+
+#API FastAPI	http://localhost:8000
+#Swagger	http://localhost:8000/docs
+#Frontend Streamlit	http://localhost:8501
