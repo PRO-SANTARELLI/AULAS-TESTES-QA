@@ -1,11 +1,3 @@
-## Descrição do projeto
-
-endereço nuvem do projeto:
-
-https://controltask-2-j4vgecnvt7rvssvm43rreg.streamlit.app/
-
----
-
 ## Tecnologias utilizadas
 
 Exemplo:
@@ -18,7 +10,6 @@ Exemplo:
 * Pytest
 * GitHub Actions
 
----
 
 ## Arquitetura
 
