@@ -179,3 +179,11 @@ def delete_task(task_id: int, db: Session = Depends(database.get_db)):
     db.delete(db_task)
     db.commit()
     return None
+
+#Subir ambiente Backend:
+# python3 -m venv .venv
+# source .venv/bin/activate
+# pip install --upgrade pip
+# pip install -r requirements.txt
+# uvicorn backend.main:app --reload
+# 
