@@ -21,9 +21,16 @@ Resultado esperado:
 Acesso não autorizado.
 Mensagem informando que a usuário ou senha não foi encontrado
 
-Resultado Obtido
+Resultado Obtido:
+Falha: ele permitiu acesso à tela principal mesmo com senha incorreta
 
 Evidência:
+
+<img width="832" height="468" alt="image" src="https://github.com/user-attachments/assets/386cdbcf-e26f-4da9-8ec0-94482317a450" />
+
+
+<img width="1825" height="875" alt="image" src="https://github.com/user-attachments/assets/e668d15e-4de8-4281-94f2-78ea357dd819" />
+
 
 
 
