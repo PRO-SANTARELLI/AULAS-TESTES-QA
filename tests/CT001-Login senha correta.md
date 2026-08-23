@@ -22,6 +22,9 @@ Login realizado com sucesso.
 Tela principal do sistema liberada para gestão de tarefas
 
 Resultado Obtido:
+Login realizado com sucesso e tela princpial disponibilizada
 
 
 Evidência:
+
+<img width="1825" height="875" alt="image" src="https://github.com/user-attachments/assets/c4d61518-d456-49cd-a3f5-e59037e63d48" />
