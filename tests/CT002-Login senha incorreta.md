@@ -10,16 +10,18 @@ Pré-condições:
 Dados de teste:
 - Nome: Flavio Santarelli
 - Email: flavio-teste@teste.com.br
-- Senha: 1234
+- Senha: 4321
 
 Passos:
 1 - Entrar com conta cadastrada e autorizada.
-2 - Inserir senha correta cadastrada
+2 - Inserir senha incorreta cadastrada
 
 
 Resultado esperado:
 Acesso não autorizado.
 Mensagem informando que a usuário ou senha não foi encontrado
+
+Resultado Obtido
 
 Evidência:
 
