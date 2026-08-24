@@ -1,14 +1,14 @@
 CT003 - Cadastrar Tarefa
 
 Objetivo:
-Validar o cadastro de novas tarefas
+Validar o cadastro de novas tarefas com prioridade LOW(baixa)
 
 Pré-condições:
 1 - Usuário logado
 2 - Tela de cadastro de tarefas liberado
 
 Dados de teste:
-- Nome tarefa: Testar cadsatro de tarefa
+- Nome tarefa: Testar cadastro de tarefa
 - Detalhes/Observações: Tarefa que cria uma ação de testes
 - Prioridade: Low
 
@@ -22,7 +22,7 @@ Passos:
 
 Resultado esperado:
 Tarefa criada com sucesso.
-Tarefa aparecendo no painel.
+Tarefa aparecendo no painel com prioridade LOW.
 
 Resultado Obtido:
 
