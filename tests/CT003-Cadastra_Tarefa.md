@@ -26,7 +26,7 @@ Tarefa criada com sucesso.
 Tarefa aparecendo no painel com prioridade LOW.
 
 Resultado Obtido:
-Aplicação não cadastro tarefa ao clicar o botão Salvar.
+Aplicação não cadastra tarefa ao clicar o botão Salvar.
 
 
 Evidência:
