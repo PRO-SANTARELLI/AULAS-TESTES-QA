@@ -23,7 +23,7 @@ def test_create_task_rejeita_usuario_inexistente():
             db=db
         )
 
-    assert erro.value.status_code == 500
+    assert erro.value.status_code == 404
     assert erro.value.detail == "Usuário não encontrado."
 
 
@@ -36,7 +36,7 @@ def test_create_task_rejeita_prioridade_invalida():
     task = TaskCreate(
         title="Estudar QA",
         description="Estudar testes unitários",
-        priority="HIGH"
+        priority="urgente"
     )
 
     with pytest.raises(Exception) as erro:
